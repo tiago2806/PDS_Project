@@ -1,2 +1,2 @@
-# PDS_Prokect
+# PDS_ProJect
 This is a repository of PDS project
